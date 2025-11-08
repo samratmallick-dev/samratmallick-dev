@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Ecommarce web app using MERN<br>🌱 I’m currently learning MERN STACK<br>💬 Ask me about react, node, javascript<br>📫 How to reach me samratmallick832@gmail.com<br>📄 Know about my experiences [![Portfolio]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white]([https://samrat-mallick-personal-portfolio-f.vercel.app/](https://samrat-mallick-personal-portfolio-f.vercel.app/)))](https://instagram.com/samratmallick.dev)<br>⚡ Fun fact I am very funny :)
+🔭 I’m currently working on Ecommarce web app using MERN<br>🌱 I’m currently learning MERN STACK<br>💬 Ask me about react, node, javascript<br>📫 How to reach me samratmallick832@gmail.com<br>📄 Know about my experiences [(Portfolio]([https://samrat-mallick-personal-portfolio-f.vercel.app/](https://samrat-mallick-personal-portfolio-f.vercel.app/)))](https://instagram.com/samratmallick.dev)<br>⚡ Fun fact I am very funny :)
 
 
 ## 🌐 Socials:
