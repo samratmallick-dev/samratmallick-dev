@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Ecommarce web app using MERN<br>🌱 I’m currently learning MERN STACK<br>💬 Ask me about react, node, javascript<br>📫 How to reach me samratmallick832@gmail.com<br>📄 Know about my experiences [Portfolio](https://github.com/samratmallick-dev/Fullstack-Portfolio)<br>⚡ Fun fact I am very funny :)
+🔭 I’m currently working on Ecommarce web app using MERN<br>🌱 I’m currently learning MERN STACK<br>💬 Ask me about react, node, javascript<br>📫 How to reach me samratmallick832@gmail.com<br>📄 Know about my experiences [Portfolio]([https://github.com/samratmallick-dev/Fullstack-Portfolio](https://github.com/samratmallick-dev/Personal_Portfolio_Frontend_Site))<br>⚡ Fun fact I am very funny :)
 
 
 ## 🌐 Socials:
